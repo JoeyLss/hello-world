@@ -1,2 +1,4 @@
 # hello-world
-Just my first repository
+Hi humans!
+Guess who I am
+Come and find me.
